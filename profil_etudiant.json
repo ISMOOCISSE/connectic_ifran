@@ -3,9 +3,9 @@
 {"type":"database","name":"ifran"},
 {"type":"table","name":"profil_etudiant","database":"ifran","data":
 [
-{"id":"1","nom":"cissé ismael souleymane","sexe":"Masculin","matricule":"berserrkercode47","age":"23 ans","nationalite":"Ivoirienne","note_assidute":"16.99 \/ 20","taux_presence_au_cours":"60%","taux_presence_etudiant":"100%","commentaire":"Cet élève est étonnamment respectueux, que Dieu le bénisse. Correct, bon élève dans l’ensemble.","classe_etudiant":"B3"},
-{"id":"2","nom":"Ndri paul ","sexe":"Masculin","matricule":"berserrkercode48","age":"22 ans","nationalite":"Ivoirienne","note_assidute":"16.99 \/ 20","taux_presence_au_cours":"60%","taux_presence_etudiant":"100%","commentaire":"Ahh !! petit ! même Orochimaru na rien fais !","classe_etudiant":"B3"},
-{"id":"3","nom":"Sandra Tiono","sexe":"Féminin","matricule":"berserrkercode49","age":"21 ans","nationalite":"Ivoiro-CapVerdienne","note_assidute":"16.99 \/ 20","taux_presence_au_cours":"60%","taux_presence_etudiant":"100%","commentaire":"Seigneur !!","classe_etudiant":"B3"}
+{"id":"1","nom":"cissé ismael souleymane","sexe":"Masculin","matricule":"berserrkercode47","age":"23 ans","nationalite":"Ivoirienne","note_assidute":"16.99 \/ 20","taux_presence_au_cours":"60%","taux_presence_etudiant":"100%","commentaire":"Cet élève est étonnamment respectueux, que Dieu le bénisse. Correct, bon élève dans l’ensemble.","classe_etudiant":"Dev B3"},
+{"id":"2","nom":"Ndri paul ","sexe":"Masculin","matricule":"berserrkercode48","age":"22 ans","nationalite":"Ivoirienne","note_assidute":"16.99 \/ 20","taux_presence_au_cours":"60%","taux_presence_etudiant":"100%","commentaire":"Ahh !! petit ! même Orochimaru na rien fais !","classe_etudiant":"Dev B3"},
+{"id":"3","nom":"Sandra Tiono","sexe":"Féminin","matricule":"berserrkercode49","age":"21 ans","nationalite":"Ivoiro-CapVerdienne","note_assidute":"16.99 \/ 20","taux_presence_au_cours":"60%","taux_presence_etudiant":"100%","commentaire":"Seigneur !!","classe_etudiant":"Dev B3"}
 ]
 }
 ]
