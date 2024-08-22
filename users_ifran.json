@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"connectic_ifran"},
+{"type":"table","name":"users_ifran","database":"connectic_ifran","data":
+[
+{"id":"1","nom":"cissé ismael souleymane","role":"etudiant","mdp":"ismo2001"},
+{"id":"2","nom":"Ndri paul ","role":"etudiant","mdp":"paul93"},
+{"id":"3","nom":"Sandra Tiono","role":"etudiant","mdp":"sandra15"},
+{"id":"4","nom":"Bini Flora","role":"coordinateur","mdp":"Bini15"},
+{"id":"5","nom":"Kone","role":"coordinateur","mdp":"kone99"},
+{"id":"6","nom":"hurié","role":"coordinateur","mdp":"hurie26"},
+{"id":"7","nom":"Adoh","role":"professeur","mdp":"adoh10"},
+{"id":"8","nom":"kekre","role":"professeur","mdp":"kekre40"},
+{"id":"9","nom":"ngoran mardoche","role":"professeur","mdp":"ngoran20"},
+{"id":"10","nom":"laurence","role":"admin","mdp":"laurence24"}
+]
+}
+]
