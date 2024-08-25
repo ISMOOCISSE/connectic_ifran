@@ -4,7 +4,7 @@
 {"type":"table","name":"users_ifran","database":"connectic_ifran","data":
 [
 {"id":"1","nom":"cissé ismael souleymane","role":"etudiant","mdp":"ismo2001"},
-{"id":"2","nom":"Ndri paul ","role":"etudiant","mdp":"paul93"},
+{"id":"2","nom":"Ndri paul","role":"etudiant","mdp":"paul93"},
 {"id":"3","nom":"Sandra Tiono","role":"etudiant","mdp":"sandra15"},
 {"id":"4","nom":"Bini Flora","role":"coordinateur","mdp":"Bini15"},
 {"id":"5","nom":"Kone","role":"coordinateur","mdp":"kone99"},
