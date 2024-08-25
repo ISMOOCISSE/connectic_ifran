@@ -1,0 +1,17 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"connectic_ifran"},
+{"type":"table","name":"coordinateurs","database":"connectic_ifran","data":
+[
+{"id":"12","nom_du_prof":"Adoh","cours":"electron","jours":"24","mois":"janvier","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"9h00-12h00","motif_du_cours_annule":""},
+{"id":"13","nom_du_prof":"kekre","cours":"flutter","jours":"25","mois":"fevrier","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"9h00-12h00","motif_du_cours_annule":""},
+{"id":"14","nom_du_prof":"Ngoran mardoché","cours":"scrum","jours":"15","mois":"avril","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"9h00-12h00","motif_du_cours_annule":""},
+{"id":"15","nom_du_prof":"Adoh","cours":"mathématiques appliquées","jours":"10","mois":"janvier","annee":"2024","niveau_bachelor":"B1","classe":"prepa 1","heures_du_cours":"8h00-11h00","motif_du_cours_annule":""},
+{"id":"16","nom_du_prof":"kekre","cours":"systèmes embarqués","jours":"12","mois":"février","annee":"2024","niveau_bachelor":"B1","classe":"prepa 2","heures_du_cours":"13h00-16h00","motif_du_cours_annule":""},
+{"id":"17","nom_du_prof":"Ngoran mardoché","cours":"algorithmes avancés","jours":"18","mois":"mars","annee":"2024","niveau_bachelor":"B2","classe":"Dev","heures_du_cours":"10h00-13h00","motif_du_cours_annule":""},
+{"id":"18","nom_du_prof":"kekre","cours":"théorie des réseaux","jours":"20","mois":"avril","annee":"2024","niveau_bachelor":"B1","classe":"prepa 2","heures_du_cours":"14h00-17h00","motif_du_cours_annule":""},
+{"id":"19","nom_du_prof":"Ngoran mardoché","cours":"sécurité informatique","jours":"22","mois":"mai","annee":"2024","niveau_bachelor":"B2","classe":"crea","heures_du_cours":"9h00-12h00","motif_du_cours_annule":"urgences familiale du professeur le cours est annulé"},
+{"id":"20","nom_du_prof":"Ngoran mardoché","cours":"programmation fonctionnelle","jours":"28","mois":"mai","annee":"2024","niveau_bachelor":"B2","classe":"com","heures_du_cours":"9h00-12h00","motif_du_cours_annule":"le professeur est tombé malade le cours est annulé"}
+]
+}
+]

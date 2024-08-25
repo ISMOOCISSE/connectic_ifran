@@ -1,0 +1,29 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"connectic_ifran"},
+{"type":"table","name":"professeurs","database":"connectic_ifran","data":
+[
+{"id":"1","nom_du_prof":"Adoh","cours":"electron","jours":"24","mois":"janvier","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"9h00-12h00","nom_etudiant":"cissé ismael souleymane","heures_d_arriver":"9h00","statut_de_presence":"présent"},
+{"id":"2","nom_du_prof":"Adoh","cours":"electron","jours":"24","mois":"janvier","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"9h00-12h00","nom_etudiant":"Sandra Tiono","heures_d_arriver":"10h00","statut_de_presence":"en retard"},
+{"id":"3","nom_du_prof":"Adoh","cours":"electron","jours":"24","mois":"janvier","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"9h00-12h00","nom_etudiant":"Ndri paul","heures_d_arriver":"9h40","statut_de_presence":"présent"},
+{"id":"4","nom_du_prof":"kekre","cours":"flutter","jours":"25","mois":"fevrier","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"9h00-12h00","nom_etudiant":"cissé ismael souleymane","heures_d_arriver":"10h20","statut_de_presence":"en retard"},
+{"id":"5","nom_du_prof":"kekre","cours":"flutter","jours":"25","mois":"fevrier","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"9h00-12h00","nom_etudiant":"Ndri paul","heures_d_arriver":"11h40","statut_de_presence":"en retard"},
+{"id":"6","nom_du_prof":"kekre","cours":"flutter","jours":"25","mois":"fevrier","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"9h00-12h00","nom_etudiant":"sandra tiono","heures_d_arriver":"9h00","statut_de_presence":"présent"},
+{"id":"7","nom_du_prof":"e-learning","cours":"workshop","jours":"26","mois":"mars","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"14h00-17h00","nom_etudiant":"Ndri paul","heures_d_arriver":"14h40","statut_de_presence":"présent"},
+{"id":"8","nom_du_prof":"e-learning","cours":"workshop","jours":"26","mois":"mars","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"14h00-17h00","nom_etudiant":"cissé ismael souleymane","heures_d_arriver":"15h40","statut_de_presence":"présent"},
+{"id":"9","nom_du_prof":"e-learning","cours":"workshop","jours":"26","mois":"mars","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"14h00-17h00","nom_etudiant":"sandra tiono","heures_d_arriver":"14h00","statut_de_presence":"présent"},
+{"id":"10","nom_du_prof":"Ngoran mardoché","cours":"srucm","jours":"15","mois":"avril","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"9h00-12h00","nom_etudiant":"Ndri paul","heures_d_arriver":"9h40","statut_de_presence":"présent"},
+{"id":"11","nom_du_prof":"Ngoran mardoché","cours":"scrum","jours":"15","mois":"avril","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"9h00-12h00","nom_etudiant":"cissé ismael souleymane","heures_d_arriver":"9h40","statut_de_presence":"présent"},
+{"id":"12","nom_du_prof":"e-learning","cours":"workshop","jours":"12","mois":"mai","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"14h00-17h00","nom_etudiant":"sandra tiono","heures_d_arriver":"","statut_de_presence":"absent"},
+{"id":"13","nom_du_prof":"e-learning","cours":"workshop","jours":"12","mois":"mai","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"14h00-17h00","nom_etudiant":"cissé ismael souleymane","heures_d_arriver":"","statut_de_presence":"absent"},
+{"id":"14","nom_du_prof":"e-learning","cours":"workshop","jours":"12","mois":"mai","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"14h00-17h00","nom_etudiant":"Ndri paul","heures_d_arriver":"","statut_de_presence":"absent"},
+{"id":"15","nom_du_prof":"Ngoran mardoché","cours":"srucm","jours":"15","mois":"avril","annee":"2024","niveau_bachelor":"B3","classe":"Dev","heures_du_cours":"9h00-12h00","nom_etudiant":"sandra tiono","heures_d_arriver":"","statut_de_presence":"absent"},
+{"id":"16","nom_du_prof":"Adoh","cours":"mathématiques appliquées","jours":"10","mois":"janvier","annee":"2024","niveau_bachelor":"B1","classe":"prepa 1","heures_du_cours":"9h00-12h00","nom_etudiant":"Ahmed Traoré","heures_d_arriver":"9h10","statut_de_presence":"présent"},
+{"id":"17","nom_du_prof":"kekre","cours":"systèmes embarqués","jours":"12","mois":"février","annee":"2024","niveau_bachelor":"B1","classe":"prepa 2","heures_du_cours":"14h00-17h00","nom_etudiant":"Moussa Koné","heures_d_arriver":"15h05","statut_de_presence":"en retard"},
+{"id":"18","nom_du_prof":"Ngoran mardoché","cours":"algorithmes avancés","jours":"18","mois":"mars","annee":"2024","niveau_bachelor":"B2","classe":"Dev","heures_du_cours":"9h00-12h00","nom_etudiant":"Aïcha Diop","heures_d_arriver":"10h00","statut_de_presence":"en retard"},
+{"id":"19","nom_du_prof":"kekre","cours":"théorie des réseaux","jours":"20","mois":"avril","annee":"2024","niveau_bachelor":"B1","classe":"prepa 2","heures_du_cours":"14h00-17h00","nom_etudiant":"Fatou Keita","heures_d_arriver":"14h10","statut_de_presence":"présent"},
+{"id":"20","nom_du_prof":"Ngoran mardoché","cours":"sécurité informatique","jours":"22","mois":"mai","annee":"2024","niveau_bachelor":"B2","classe":"crea","heures_du_cours":"9h00-12h00","nom_etudiant":"Karim Ouattara","heures_d_arriver":"","statut_de_presence":"absent"},
+{"id":"21","nom_du_prof":"Ngoran mardoché","cours":"programmation fonctionnelle","jours":"28","mois":"mai","annee":"2024","niveau_bachelor":"B2","classe":"com","heures_du_cours":"9h00-12h00","nom_etudiant":"Aïcha Diop","heures_d_arriver":"","statut_de_presence":"absent"}
+]
+}
+]
